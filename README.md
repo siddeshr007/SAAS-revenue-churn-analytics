@@ -155,6 +155,11 @@ Plan / Region / Month
 
 Metric value (MRR, churn rate, # customers)
 
+## 🖼️ Dashboard Preview
+
+![SaaS Revenue & Churn Dashboard](docs/SaaS_Revenue_&_Churn.png)
+
+
 🔢 Headline Metrics & Patterns
 
 From the current snapshot:
