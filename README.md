@@ -157,7 +157,7 @@ Metric value (MRR, churn rate, # customers)
 
 ## 🖼️ Dashboard Preview
 
-![SaaS Revenue & Churn Dashboard](docs/SaaS_Revenue_&_Churn.png)
+![SaaS Revenue & Churn Dashboard](docs/saas_revenue_churn_dashboard.png)
 
 
 🔢 Headline Metrics & Patterns
