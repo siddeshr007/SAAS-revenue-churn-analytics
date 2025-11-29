@@ -157,7 +157,10 @@ Metric value (MRR, churn rate, # customers)
 
 ## 🖼️ Dashboard Preview
 
+Below is a preview of the Tableau churn dashboard built from the scored dataset:
+
 ![SaaS Revenue & Churn Dashboard](docs/saas_revenue_churn_dashboard.png)
+
 
 
 🔢 Headline Metrics & Patterns
